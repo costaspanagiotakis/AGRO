@@ -6,6 +6,7 @@ You can find more details in [1]
 #
 Files: 
    AGRO.m: implementation of the AGRO algorithm 
+   #
    runOptimizer.m: running the AGRO algorithm 
    #
 [1] C. Panagiotakis, AGRO: An Adaptive Gold Rush Optimizer with Dynamic Strategy Selection,  Algorithms,  19(3), 192, 2026.
